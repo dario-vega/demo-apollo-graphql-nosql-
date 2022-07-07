@@ -7,7 +7,6 @@ WIP : 👷
 
 ````
 npm install apollo-server graphql --save
-npm install oracle-nosqldb
 node index.js
 ````
 ## tests commands
